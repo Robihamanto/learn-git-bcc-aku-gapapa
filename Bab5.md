@@ -1,1 +1,1 @@
-tipe data array
+tipe data array hehe
